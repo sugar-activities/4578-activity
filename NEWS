@@ -1,0 +1,27 @@
+NEWS
+
+9
+
+ENHANCEMENT:
+* Handle screen rotation
+* Adjust to widescreen formats
+
+7
+
+BUG FIXES:
+* Restore to playable game state (#4486)
+* Scale properly on displays that are not 4:3 aspect ration
+
+5
+
+ENHANCEMENT:
+* Alert when game is over (#4424)
+
+3
+
+ENHANCEMENT:
+* GTK3 port by Ignacio Rodriguez
+
+1
+
+* New project

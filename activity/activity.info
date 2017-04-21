@@ -1,0 +1,9 @@
+[Activity]
+name = CookieSearch
+activity_version = 9
+license = GPLv3
+bundle_id = org.sugarlabs.CookieSearchActivity
+exec = sugar-activity SearchActivity.SearchActivity
+icon = activity-search
+show_launcher = yes
+summary = search for cookies hidden behind a hungry turtle
